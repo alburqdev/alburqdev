@@ -2,11 +2,12 @@
 
 💻 **Desarrollador de software** enfocado en el desarrollo web fullstack. Me apasiona crear aplicaciones que combinan buena arquitectura, diseño limpio y experiencias de usuario fluidas.  
 
-<img align="right" alt="Coding GIF" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ---
 
 ## 🚀 Sobre mí  
+
+<img align="right" alt="Coding GIF" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 - 🎯 Enfocado en construir aplicaciones escalables con buenas prácticas de arquitectura (MVC, REST APIs, modulación de controladores).  
 - 🔍 Actualmente desarrollando:  
   - 🛒 **Módulo de e-commerce** con gestión de comercios, productos y pedidos.  
@@ -52,8 +53,8 @@
 
 ## 📊 Mis estadísticas  
 
-![Stats](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=alburqdev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=alburqdev&layout=compact&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=alburqdev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alburqdev&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=alburqdev&theme=radical&hide_border=false)  
 
 📈 Actividad reciente:  
