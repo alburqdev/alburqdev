@@ -2,6 +2,8 @@
 
 💻 **Desarrollador de software** enfocado en el desarrollo web fullstack. Me apasiona crear aplicaciones que combinan buena arquitectura, diseño limpio y experiencias de usuario fluidas.  
 
+<img align="right" alt="Coding GIF" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ---
 
 ## 🚀 Sobre mí  
@@ -48,13 +50,23 @@
 
 ---
 
-## 📊 Estadísticas  
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAlburquerque&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlburquerque&layout=compact&theme=radical)  
+## 📊 Mis estadísticas  
+
+![Stats](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=LuisAlburquerque&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=LuisAlburquerque&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=LuisAlburquerque&theme=radical&hide_border=false)  
+
+📈 Actividad reciente:  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisAlburquerque&theme=radical)  
+
+---
+
+## 🌍 Visitas al perfil  
+![Visitors](https://komarev.com/ghpvc/?username=LuisAlburquerque&label=Visitas&color=blue&style=flat)  
 
 ---
 
 ## 📫 Conecta conmigo  
-- ✉️ Email: lalburquerque12@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/luis-alburquerque-a050472b7
-- 🌐 Portfolio: Working Progress  
+- ✉️ Email: *[tu correo aquí]*  
+- 💼 LinkedIn: *[tu perfil aquí]*  
+- 🌐 Portfolio: *[cuando lo publiques]*  
