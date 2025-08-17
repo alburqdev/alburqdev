@@ -52,21 +52,21 @@
 
 ## 📊 Mis estadísticas  
 
-![Stats](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=LuisAlburquerque&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=LuisAlburquerque&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=LuisAlburquerque&theme=radical&hide_border=false)  
+![Stats](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=alburqdev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=alburqdev&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=alburqdev&theme=radical&hide_border=false)  
 
 📈 Actividad reciente:  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisAlburquerque&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alburqdev&theme=radical)  
 
 ---
 
 ## 🌍 Visitas al perfil  
-![Visitors](https://komarev.com/ghpvc/?username=LuisAlburquerque&label=Visitas&color=blue&style=flat)  
+![Visitors](https://komarev.com/ghpvc/?username=alburqdev&label=Visitas&color=blue&style=flat)  
 
 ---
 
 ## 📫 Conecta conmigo  
-- ✉️ Email: *[tu correo aquí]*  
-- 💼 LinkedIn: *[tu perfil aquí]*  
-- 🌐 Portfolio: *[cuando lo publiques]*  
+- ✉️ Email: **lalburquerque12@gmail.com**  
+- 💼 LinkedIn: [Luis Alburquerque](https://www.linkedin.com/in/luis-alburquerque-a050472b7)  
+- 🌐 Portfolio: *Working Progress*  
