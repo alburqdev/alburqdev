@@ -55,6 +55,6 @@
 ---
 
 ## 📫 Conecta conmigo  
-- ✉️ Email: *[tu correo aquí]*  
-- 💼 LinkedIn: *[tu perfil aquí]*  
-- 🌐 Portfolio: *[cuando lo publiques]*  
+- ✉️ Email: lalburquerque12@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/luis-alburquerque-a050472b7
+- 🌐 Portfolio: Working Progress  
